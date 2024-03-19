@@ -2,10 +2,11 @@
 
 ## 基本情報
 
-| Blog | https://banbara-studio.hatenablog.com/ |
-| GitHub | [ikemura23](https://github.com/ikemura23) |
-| X (Twitter) | [@ikemura23](https://twitter.com/ikemura) |
-| Qiita | [@ikemura23](https://qiita.com/ikemura23) |
+| GitHub | https://github.com/ikemura23 |
+| X (Twitter) | https://twitter.com/ikemura |
+| Qiita | https://qiita.com/ikemura23 |
+| note | https://note.com/ikemura23 |
+| Blog | https://banbara-studio.hatenablog.com |
 | 現住所 | 埼玉県 |
 | 出身地 | 沖縄県 |
 
@@ -20,7 +21,8 @@
 
 ### 趣味経験
 
-- HTML / CSS / JavaScript
+- HTML / CSS
+- JavaScript
 - TypeScript
 - Ruby
 

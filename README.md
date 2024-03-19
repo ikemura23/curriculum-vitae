@@ -65,11 +65,29 @@
 
 ### 株式会社テンプスタッフテクノロジー
 
-TBD
+2012 年 4 月〜2017 年 6 月
+
+- Android アプリ開発
+
+  - 担当: 設計 / 開発
+  - 言語: Java
+  - アーキテクチャ: MVP
+  - UI: AndroidView
+  - GitHub
+  - Confluence / Jira
+
+- iOS アプリ開発
+  - 言語: Objective-C
+  - UI: StoryBoard
+  - GitHub
 
 ### 株式会社エスアイピー
 
-TBD
+2007 年 6 月 〜 2012 年 3 月
+
+- Windows 向けアプリ開発
+  - 担当: 設計 / 開発
+  - 言語: C# / SQL
 
 ## その他活動
 

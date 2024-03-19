@@ -2,13 +2,17 @@
 
 ## 基本情報
 
-| GitHub | https://github.com/ikemura23 |
-| X (Twitter) | https://twitter.com/ikemura |
-| Qiita | https://qiita.com/ikemura23 |
-| note | https://note.com/ikemura23 |
-| Blog | https://banbara-studio.hatenablog.com |
-| 現住所 | 埼玉県 |
-| 出身地 | 沖縄県 |
+## テーブル
+
+|             |                                       |
+| ----------- | ------------------------------------- |
+| GitHub      | https://github.com/ikemura23          |
+| X (Twitter) | https://twitter.com/ikemura           |
+| Qiita       | https://qiita.com/ikemura23           |
+| note        | https://note.com/ikemura23            |
+| Blog        | https://banbara-studio.hatenablog.com |
+| 現住所      | 埼玉県                                |
+| 出身地      | 沖縄県                                |
 
 ## スキル
 

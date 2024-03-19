@@ -7,7 +7,7 @@
 |             |                                       |
 | ----------- | ------------------------------------- |
 | GitHub      | https://github.com/ikemura23          |
-| X (Twitter) | https://twitter.com/ikemura           |
+| X (Twitter) | https://twitter.com/ikemura23         |
 | Qiita       | https://qiita.com/ikemura23           |
 | note        | https://note.com/ikemura23            |
 | Blog        | https://banbara-studio.hatenablog.com |

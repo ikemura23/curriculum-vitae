@@ -105,10 +105,12 @@
 
 #### Android アプリ
 
-- やいまふに - 八重山離島船の運航情報アプリ - Google Play のアプリ https://play.google.com/store/apps/details?id=com.banbara.yaeyama.liner.checker&hl=ja
+- [やいまふに - 八重山離島船の運航情報アプリ - Google Play](https://play.google.com/store/apps/details?id=com.banbara.yaeyama.liner.checker&hl=ja)
 -
 
 #### Web サイト
 
-- やまねこ農園 https://yamanekonouen.sakura.ne.jp/
-- やまねこ宅配 https://yamaneko-takuhai.com/
+- [やまねこ農園](https://yamanekonouen.sakura.ne.jp/)
+  - Riot.js / Materialize
+- [やまねこ宅配](https://yamaneko-takuhai.com/)
+  - React / Chakura UI

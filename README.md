@@ -30,6 +30,39 @@
 
 ### 株式会社ゆめみ
 
+2017 年 7 月〜現在
+
+- Android アプリ開発
+
+  - 担当: 設計 / 開発
+  - 言語: Java / Kotlin
+  - アーキテクチャ: MVP / MVVM
+  - UI: AndroidView / Jetpack Compose
+  - GitHub
+  - Confluence / Jira
+
+- サーバーサイド開発
+
+  - 担当: 設計 / 開発
+  - 言語: Java / Kotlin
+  - FW: SpringBoot
+  - GitLab
+  - Confluence / Jira
+
+- Android アプリの UI テスト自動化
+
+  - 担当: 設計 / 開発 / 運用
+  - 言語: Kotlin
+  - テストツール: Maestro
+  - CI: GitHub Actions
+
+- Flutter アプリ開発
+  - 担当: リード / 設計 / 開発
+  - 言語: Dart
+  - アーキテクチャ: MVVM
+  - GitHub
+  - Confluence / Jira
+
 ### 株式会社テンプスタッフテクノロジー
 
 ### 株式会社エスアイピー

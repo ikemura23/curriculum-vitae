@@ -97,9 +97,9 @@
 
 ### 登壇
 
-- YUMEMI.apk #1 - connpass https://yumemi.connpass.com/event/180842/
-- YUMEMI.apk #3 ～新技術でゆめみるモダン開発～ - connpass https://yumemi.connpass.com/event/202135/
-- 【YUMEMI x Sansan Tech Meetup】Android 開発におけるチャレンジを語る - connpass https://sansan.connpass.com/event/229780/
+- [YUMEMI.apk #1 - connpass](https://yumemi.connpass.com/event/180842/)
+- [YUMEMI.apk #3 ～新技術でゆめみるモダン開発～ - connpass](https://yumemi.connpass.com/event/202135/)
+- [【YUMEMI x Sansan Tech Meetup】Android 開発におけるチャレンジを語る - connpass](https://sansan.connpass.com/event/229780/)
 
 ### 個人開発
 

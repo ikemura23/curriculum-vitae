@@ -20,6 +20,8 @@
   - Java / Kotlin
 - Flutter アプリ開発
   - Dart
+- Windows デスクトップアプリ開発
+  - C#
 
 ### 趣味経験
 
